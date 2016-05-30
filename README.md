@@ -19,7 +19,7 @@ _[White Paper available at this link](http://download.tensorflow.org/paper/white
 
 ## Abstract
 
-* [**TensorFlow**](https://www.tensorflow.org/) is both an interface for expressing machine learning algorithms and an implentation to execute them
+* [**TensorFlow**](https://www.tensorflow.org/) is both an interface for expressing machine learning algorithms and an implementation to execute them
 * Code can be transported across various machine architectures with little to no changes to the code
 * Has been used at Google for all manner of machine learning tasks
 * [Reference implementation and API released under Apache 2.0 license](https://github.com/tensorflow/tensorflow)
